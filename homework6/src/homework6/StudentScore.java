@@ -1,8 +1,5 @@
 package homework6;
-
-import java.nio.channels.NetworkChannel;
 import java.util.*;
-
 public class StudentScore {
 	Scanner s = new Scanner(System.in);
 	int kor, eng, math;
