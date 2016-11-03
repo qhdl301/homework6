@@ -24,9 +24,9 @@ public class ExamVariousArray {
 			if (num == 3)
 				new StudentScore().input();
 			if (num == 4)
-				new OnlyNumber().input();
-			if (num == 5)
 				new AptPersonCount().input();
+			if (num == 5)
+				new OnlyNumber().input();
 			
 		} while (num != 6);
 		{
